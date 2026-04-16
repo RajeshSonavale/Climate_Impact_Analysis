@@ -1,0 +1,101 @@
+City,Country,Latitude,Longitude,Region,Population
+Mumbai,India,19.076,72.877,Asia,20400000
+Delhi,India,28.613,77.209,Asia,31800000
+Bangalore,India,12.971,77.594,Asia,12400000
+Chennai,India,13.082,80.27,Asia,11000000
+Kolkata,India,22.572,88.363,Asia,15000000
+Hyderabad,India,17.385,78.486,Asia,10600000
+London,UK,51.507,-0.127,Europe,8980000
+Manchester,UK,53.48,-2.242,Europe,553000
+Paris,France,48.856,2.352,Europe,2148000
+Berlin,Germany,52.52,13.405,Europe,3769000
+Madrid,Spain,40.416,-3.703,Europe,3223000
+Rome,Italy,41.902,12.496,Europe,2873000
+Amsterdam,Netherlands,52.367,4.904,Europe,821000
+Brussels,Belgium,50.85,4.351,Europe,1850000
+Vienna,Austria,48.208,16.373,Europe,1897000
+Zurich,Switzerland,47.376,8.541,Europe,402000
+Stockholm,Sweden,59.329,18.068,Europe,975000
+Oslo,Norway,59.913,10.752,Europe,681000
+Copenhagen,Denmark,55.676,12.568,Europe,602000
+Helsinki,Finland,60.169,24.938,Europe,655000
+New York,USA,40.712,-74.006,North America,8419000
+Los Angeles,USA,34.052,-118.243,North America,3980000
+Chicago,USA,41.878,-87.629,North America,2716000
+Houston,USA,29.76,-95.369,North America,2328000
+Phoenix,USA,33.448,-112.074,North America,1690000
+San Antonio,USA,29.424,-98.493,North America,1547000
+San Diego,USA,32.715,-117.161,North America,1424000
+Dallas,USA,32.776,-96.796,North America,1340000
+San Jose,USA,37.338,-121.886,North America,1027000
+San Francisco,USA,37.774,-122.419,North America,883000
+Toronto,Canada,43.651,-79.347,North America,2930000
+Vancouver,Canada,49.282,-123.12,North America,675000
+Montreal,Canada,45.501,-73.567,North America,1760000
+Mexico City,Mexico,19.432,-99.133,North America,9200000
+Guadalajara,Mexico,20.659,-103.349,North America,1495000
+Tokyo,Japan,35.676,139.65,Asia,13960000
+Osaka,Japan,34.693,135.502,Asia,2690000
+Seoul,South Korea,37.566,126.978,Asia,9776000
+Busan,South Korea,35.179,129.075,Asia,3440000
+Beijing,China,39.904,116.407,Asia,21540000
+Shanghai,China,31.23,121.473,Asia,26320000
+Shenzhen,China,22.543,114.057,Asia,12500000
+Guangzhou,China,23.129,113.264,Asia,13500000
+Bangkok,Thailand,13.756,100.501,Asia,10540000
+Jakarta,Indonesia,-6.208,106.845,Asia,10770000
+Manila,Philippines,14.599,120.984,Asia,13480000
+Singapore,Singapore,1.352,103.819,Asia,5686000
+Kuala Lumpur,Malaysia,3.139,101.686,Asia,1780000
+Dubai,UAE,25.204,55.27,Middle East,3331000
+Abu Dhabi,UAE,24.453,54.377,Middle East,1480000
+Riyadh,Saudi Arabia,24.713,46.675,Middle East,7676000
+Doha,Qatar,25.285,51.531,Middle East,956000
+Istanbul,Turkey,41.008,28.978,Middle East,15520000
+Sydney,Australia,-33.868,151.209,Oceania,5312000
+Melbourne,Australia,-37.813,144.963,Oceania,5078000
+Brisbane,Australia,-27.469,153.025,Oceania,2560000
+Perth,Australia,-31.95,115.86,Oceania,2059000
+Auckland,New Zealand,-36.85,174.764,Oceania,1657000
+Wellington,New Zealand,-41.286,174.776,Oceania,215000
+Sao Paulo,Brazil,-23.55,-46.633,South America,12330000
+Rio de Janeiro,Brazil,-22.906,-43.172,South America,6748000
+Buenos Aires,Argentina,-34.603,-58.381,South America,2890000
+Santiago,Chile,-33.448,-70.669,South America,5744000
+Lima,Peru,-12.046,-77.042,South America,9675000
+Bogota,Colombia,4.711,-74.072,South America,7744000
+Cape Town,South Africa,-33.924,18.424,Africa,4337000
+Johannesburg,South Africa,-26.204,28.047,Africa,9570000
+Cairo,Egypt,30.044,31.235,Africa,10230000
+Lagos,Nigeria,6.524,3.379,Africa,14860000
+Nairobi,Kenya,-1.292,36.821,Africa,4397000
+Casablanca,Morocco,33.573,-7.589,Africa,3359000
+Accra,Ghana,5.603,-0.187,Africa,2291000
+Addis Ababa,Ethiopia,8.98,38.757,Africa,3041000
+Algiers,Algeria,36.753,3.058,Africa,3416000
+Tunis,Tunisia,36.806,10.181,Africa,1056000
+Athens,Greece,37.983,23.727,Europe,3153000
+Budapest,Hungary,47.497,19.04,Europe,1752000
+Prague,Czech Republic,50.075,14.437,Europe,1309000
+Warsaw,Poland,52.229,21.012,Europe,1794000
+Lisbon,Portugal,38.722,-9.139,Europe,504000
+Karachi,Pakistan,24.86,67.001,Asia,16000000
+Dhaka,Bangladesh,23.81,90.412,Asia,21000000
+Colombo,Sri Lanka,6.927,79.861,Asia,752993
+Kathmandu,Nepal,27.717,85.324,Asia,1003285
+Tashkent,Uzbekistan,41.299,69.24,Asia,2500000
+Seattle,USA,47.606,-122.332,North America,733000
+Boston,USA,42.36,-71.058,North America,675000
+Philadelphia,USA,39.952,-75.165,North America,1584000
+Detroit,USA,42.331,-83.045,North America,639000
+Anchorage,USA,61.218,-149.9,North America,291000
+Quito,Ecuador,-0.18,-78.467,South America,2011000
+La Paz,Bolivia,-16.489,-68.119,South America,816044
+Montevideo,Uruguay,-34.901,-56.164,South America,1319000
+Asuncion,Paraguay,-25.263,-57.575,South America,525000
+Caracas,Venezuela,10.48,-66.903,South America,1944000
+Dar es Salaam,Tanzania,-6.792,39.208,Africa,6700000
+Kampala,Uganda,0.347,32.582,Africa,1650000
+Harare,Zimbabwe,-17.825,31.033,Africa,1480000
+Dakar,Senegal,14.716,-17.467,Africa,1146000
+Tripoli,Libya,32.887,13.191,Africa,1150000
